@@ -24,6 +24,10 @@ cd prasad
 bin/prasad
 ```
 
+# Check Box
+* [ ] Disabled
+
+* [x] Ebabled
 
 
 `Background Bold Script`
