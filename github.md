@@ -27,7 +27,7 @@ bin/prasad
 # Check Box
 * [ ] Disabled
 
-* [x] Ebabled
+* [x] Enabled
 
 
 `Background Bold Script`
